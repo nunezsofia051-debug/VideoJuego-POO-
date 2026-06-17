@@ -71,6 +71,15 @@ Las entidades identificadas son:
 
 ---
 
+# 🎮 Videojuego POO
+
+![Personaje](imagen.png)
+
+## Descripción
+...
+
+---
+
 # ⚙️ Funcionalidades del Sistema
 
 Las funcionalidades identificadas son:
