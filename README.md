@@ -69,14 +69,6 @@ Las entidades identificadas son:
 * Partida
 * Nivel
 
----
-
-# 🎮 Videojuego POO
-
-![Personaje](imagen.png)
-
-## Descripción
-...
 
 ---
 
