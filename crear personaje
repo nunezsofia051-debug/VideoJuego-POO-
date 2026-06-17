@@ -1,0 +1,18 @@
+class Personaje {
+
+    constructor(nombre, clase) {
+        this.nombre = nombre;
+        this.clase = clase;
+    }
+
+    mostrarPersonaje() {
+        console.log("Personaje creado correctamente.");
+        console.log("Nombre: " + this.nombre);
+        console.log("Clase: " + this.clase);
+    }
+
+}
+
+const personaje1 = new Personaje("Aragorn", "Guerrero");
+
+personaje1.mostrarPersonaje();
