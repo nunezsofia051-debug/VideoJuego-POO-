@@ -33,5 +33,6 @@ const tienda1 = new Tienda(500);
 
 tienda1.comprarObjeto("Espada Legendaria", 300);
 tienda1.comprarObjeto("Poción", 100);
+tienda1.comprarObjeto("Escudo", 200);
 
 tienda1.mostrarInventario();
