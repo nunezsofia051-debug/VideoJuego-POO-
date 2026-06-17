@@ -9,6 +9,7 @@ class Partida {
         console.log("Partida guardada correctamente.");
         console.log("Jugador:", this.jugador);
         console.log("Nivel:", this.nivel);
+        partida1.mostrarEstado();
     }
 
     cargarPartida() {
