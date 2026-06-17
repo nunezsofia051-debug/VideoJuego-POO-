@@ -1,1 +1,28 @@
+class Enemigo {
 
+    constructor(nombre, vida) {
+        this.nombre = nombre;
+        this.vida = vida;
+    }
+
+    recibirDanio(danio) {
+
+        this.vida -= danio;
+
+        console.log(this.nombre + " recibió " + danio + " puntos de daño.");
+        console.log("Vida restante: " + this.vida);
+
+        if (this.vida <= 0) {
+            console.log(this.nombre + " ha sido derrotado.");
+            console.log("Experiencia obtenida: 100");
+        }
+
+    }
+
+}
+
+const enemigo1 = new Enemigo("Orco", 100);
+
+enemigo1.recibirDanio(30);
+enemigo1.recibirDanio(40);
+enemigo1.recibirDanio(50);
