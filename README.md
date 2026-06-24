@@ -3,14 +3,19 @@
 ## 👩 Integrante
 
 - Sofia Nuñez
+- Rafael Godoy
+- Miguel Farias
+- Dylan Galvan
 
 ## 📚 Materia
 
-Programación Orientada a Objetos
+- Introduccion al analisis sistemico
+- Alfabetizacion digital
+
 
 ## 📅 Fecha
 
-(Completar)
+27/05/26
 
 ---
 
