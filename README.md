@@ -174,12 +174,14 @@ PARA obtener recompensas y avanzar en la historia.
 ---
 
 # 🌿 Control de versiones
+
 Este proyecto utiliza Git y GitHub para:
 
-- Branches
-- Commits
-- Pull Requests
-- Trabajo colaborativo
+- Branches.
+- Commits.
+- Pull Requests.
+- Merge.
+- Trabajo colaborativo.
 
 ---
 
@@ -190,6 +192,43 @@ Para ejecutar el sistema desde la terminal:
 ```bash
 node main.js
 ```
+
+---
+
+# 🏛️ Paradigma utilizado
+
+Este proyecto fue desarrollado utilizando Programación Orientada a Objetos (POO), implementando:
+
+- Clases.
+- Objetos.
+- Constructores.
+- Atributos.
+- Métodos.
+- Encapsulamiento básico.
+- Modularización mediante archivos JavaScript.
+
+---
+
+# 🎯 Funcionalidades implementadas
+
+✅ Crear personaje.
+
+✅ Sistema de combate.
+
+✅ Inventario.
+
+✅ Sistema de niveles.
+
+✅ Guardar partida.
+
+✅ Tienda del juego.
+
+✅ Enemigos.
+
+✅ Misiones.
+
+
+
 
 
 
