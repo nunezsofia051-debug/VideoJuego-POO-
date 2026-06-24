@@ -174,10 +174,27 @@ PARA obtener recompensas y avanzar en la historia.
 ---
 
 # 🌿 Control de versiones
-
 Este proyecto utiliza Git y GitHub para:
 
 - Branches
 - Commits
 - Pull Requests
 - Trabajo colaborativo
+
+---
+
+# ▶️ Ejecución del proyecto
+
+Para ejecutar el sistema desde la terminal:
+
+```bash
+node main.js
+```
+
+
+
+
+
+
+
+  
